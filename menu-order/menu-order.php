@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Enable Menu Order for Posts
-Plugin URI: https://github.com/DotifyBIZ/wordpress-plugins/menu-order
+Plugin URI: https://github.com/DotifyBIZ/wordpress-plugins/tree/main/menu-order
 Description: Adds menu order and template to post types.
 Version: 1.0
 Author: Dotify
