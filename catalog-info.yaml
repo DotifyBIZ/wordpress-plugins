@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: wordpress-plugins
+  title: WordPress plugins
+  description: >-
+    Small WordPress plugins made by Dotify, one per folder. Menu order adds the
+    page attributes (menu order and template) to posts.
+  annotations:
+    github.com/project-slug: DotifyBIZ/wordpress-plugins
+    backstage.io/source-location: url:https://github.com/DotifyBIZ/wordpress-plugins
+  tags:
+    - php
+    - wordpress
+spec:
+  type: library
+  lifecycle: production
+  owner: group:default/1c2b973e-7b63-4f3b-bca4-17c950dfb1b6
