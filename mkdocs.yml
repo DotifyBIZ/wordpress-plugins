@@ -1,0 +1,13 @@
+site_name: WordPress plugins
+nav:
+  - Overview: index.md
+  - For users:
+      - Menu order: users.md
+  - For admins:
+      - Install and update: admins.md
+  - For the owner:
+      - Ownership: ownership.md
+  - For developers:
+      - Development: developers.md
+plugins:
+  - techdocs-core
